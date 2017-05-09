@@ -1,0 +1,23 @@
+{
+  "name": "passport-sequelize-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrannon/passportSequelizeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbrannon/passportSequelizeTest/issues"
+  },
+  "homepage": "https://github.com/cbrannon/passportSequelizeTest#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "sequelize": "^3.30.4"
+  }
+}
